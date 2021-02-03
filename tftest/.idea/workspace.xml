@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0203c27-c3d4-4095-94fa-64c90db3c4d8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="e4609f91-7594-4b12-b83c-3c578d8536b0" />
+  <component name="ProjectId" id="1mhbtIssJd492Xlz9U9xCMTDHmI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mf" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="tftest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tftest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tftest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tftest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0203c27-c3d4-4095-94fa-64c90db3c4d8" name="Default Changelist" comment="" />
+      <created>1609948982641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609948982641</updated>
+      <workItem from="1609948983842" duration="328000" />
+      <workItem from="1610026665479" duration="618000" />
+      <workItem from="1610027544541" duration="88000" />
+      <workItem from="1611819066198" duration="694000" />
+      <workItem from="1611890911066" duration="156000" />
+      <workItem from="1611910097018" duration="13000" />
+      <workItem from="1611915110094" duration="202000" />
+      <workItem from="1611997398040" duration="477000" />
+      <workItem from="1612162637488" duration="1000" />
+      <workItem from="1612318694578" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="512" y="197" key="FileChooserDialogImpl" timestamp="1612318705366">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state x="512" y="197" key="FileChooserDialogImpl/0.0.1463.884@0.0.1463.884" timestamp="1612318705366" />
+    <state width="1420" height="230" key="GridCell.Tab.0.bottom" timestamp="1611823964881">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state width="1420" height="230" key="GridCell.Tab.0.bottom/0.0.1463.884@0.0.1463.884" timestamp="1611823964881" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1609949314419" />
+    <state width="1420" height="230" key="GridCell.Tab.0.center" timestamp="1611823964880">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state width="1420" height="230" key="GridCell.Tab.0.center/0.0.1463.884@0.0.1463.884" timestamp="1611823964880" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1609949314419" />
+    <state width="1420" height="230" key="GridCell.Tab.0.left" timestamp="1611823964880">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state width="1420" height="230" key="GridCell.Tab.0.left/0.0.1463.884@0.0.1463.884" timestamp="1611823964880" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1609949314419" />
+    <state width="1420" height="230" key="GridCell.Tab.0.right" timestamp="1611823964880">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state width="1420" height="230" key="GridCell.Tab.0.right/0.0.1463.884@0.0.1463.884" timestamp="1611823964880" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1609949314419" />
+    <state width="1420" height="285" key="GridCell.Tab.1.bottom" timestamp="1610027283975">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state width="1420" height="285" key="GridCell.Tab.1.bottom/0.0.1463.884@0.0.1463.884" timestamp="1610027283975" />
+    <state width="1420" height="285" key="GridCell.Tab.1.center" timestamp="1610027283975">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state width="1420" height="285" key="GridCell.Tab.1.center/0.0.1463.884@0.0.1463.884" timestamp="1610027283975" />
+    <state width="1420" height="285" key="GridCell.Tab.1.left" timestamp="1610027283975">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state width="1420" height="285" key="GridCell.Tab.1.left/0.0.1463.884@0.0.1463.884" timestamp="1610027283975" />
+    <state width="1420" height="285" key="GridCell.Tab.1.right" timestamp="1610027283975">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state width="1420" height="285" key="GridCell.Tab.1.right/0.0.1463.884@0.0.1463.884" timestamp="1610027283975" />
+    <state x="233" y="84" key="SettingsEditor" timestamp="1611890998385">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state x="233" y="84" key="SettingsEditor/0.0.1463.884@0.0.1463.884" timestamp="1611890998385" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tftest$tftest.coverage" NAME="tftest Coverage Results" MODIFIED="1611819074826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
